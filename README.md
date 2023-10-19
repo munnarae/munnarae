@@ -2,7 +2,7 @@
 # Hi I'm munnarae <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 - [2022.11 - 2023.03] LIKELION FRONT-END SCHOOL 4th
-
+- [2023.06 ~ ] MEDIFUN.Fnc
 
 ## 📚 Tech Stack
 <a href="#">
