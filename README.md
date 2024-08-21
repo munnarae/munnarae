@@ -2,7 +2,7 @@
 # Hi I'm Munnarae 
 
 - [2022.11 - 2023.03] LIKELION FRONT-END SCHOOL 4th
-- [2023.06 ~ ] MEDIFUN.Fnc
+- [2023.06 - 2024.08 ] MEDIFUN.Fnc
 
 ## 📚 Tech Stack
 <a href="#">
